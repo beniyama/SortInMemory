@@ -16,7 +16,7 @@ Sort an array with a limited size of memory
     cd bin
     java SortDriver 1000 5
     
-This program takes two arguments: "input array size" and "memory size".
+This program takes two arguments: "input array size" and "memory size". The memory size needs to be greater than 3.
 
 ### Step 3. Confirm
 
